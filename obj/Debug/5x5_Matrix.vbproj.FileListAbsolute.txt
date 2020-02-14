@@ -1,1 +1,11 @@
 C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\bin\Debug\5x5_Matrix.exe.config
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\bin\Debug\5x5_Matrix.exe
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\bin\Debug\5x5_Matrix.pdb
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\bin\Debug\5x5_Matrix.xml
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\obj\Debug\5x5_Matrix.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\obj\Debug\_5x5_Matrix.Form1.resources
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\obj\Debug\_5x5_Matrix.Resources.resources
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\obj\Debug\5x5_Matrix.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\obj\Debug\5x5_Matrix.exe
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\obj\Debug\5x5_Matrix.xml
+C:\Users\user\Documents\COLLEGE\Acads (5th yr)\electives3\5x5_Matrix\5x5_Matrix\obj\Debug\5x5_Matrix.pdb
